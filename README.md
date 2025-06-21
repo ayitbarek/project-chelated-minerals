@@ -1,4 +1,4 @@
-# Chelated Minerals and Gut Microbiome of Sows
+# Chelated Minerals and Gut Microbiome of Gestation Sows pre- and post-farrowing
 
 This project investigates how chelated mineral supplementation influences the gut microbiome of sows during gestation and lactation.
 
